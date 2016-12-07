@@ -2,6 +2,10 @@
   background-color:#3B5998;
   color:#FFF;
 }
+h2{
+  text-align: center;
+}
+
 span{
   width:30px;
  display: inline-block;
